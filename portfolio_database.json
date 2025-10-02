@@ -1,181 +1,2814 @@
 {
   "metadata": {
-    "created_date": "2025-10-01T22:16:03.124734",
-    "last_updated": "2025-10-02T14:15:19.564102",
+    "created_date": "2025-10-02T11:55:23.636090",
+    "last_updated": "2025-10-02T14:50:11.250950",
     "initial_capital": 1000.0,
     "version": "2.0"
   },
   "portfolio_state": {
-    "cash": 1000.0,
-    "positions": {},
+    "cash": 11.349999999999795,
+    "positions": {
+      "AAPL": {
+        "ticker": "AAPL",
+        "shares": 2,
+        "avg_cost": 242.5033476375649,
+        "current_price": 255.46
+      },
+      "GOOGL": {
+        "ticker": "GOOGL",
+        "shares": 1,
+        "avg_cost": 176.46123222351076,
+        "current_price": 246.54
+      },
+      "NVDA": {
+        "ticker": "NVDA",
+        "shares": 2,
+        "avg_cost": 116.10242798353909,
+        "current_price": 178.19
+      },
+      "TSLA": {
+        "ticker": "TSLA",
+        "shares": 1,
+        "avg_cost": 333.87,
+        "current_price": 440.4
+      },
+      "BRK.B": {
+        "ticker": "BRK.B",
+        "shares": 1,
+        "avg_cost": 500.03,
+        "current_price": 500.03
+      }
+    },
     "short_positions": {},
-    "total_value": 1000.0,
-    "total_return": 0.0,
-    "last_trading_date": "2025-10-02T14:15:19.564087"
+    "total_value": 2065.62,
+    "total_return": 1.0656199999999998,
+    "last_trading_date": "2025-10-02T14:50:11.250950"
   },
   "daily_history": [
     {
-      "date": "2024-12-02",
+      "date": "2023-10-06",
       "portfolio_value": 1000.0,
       "daily_return": 0.0,
       "total_return": 0.0,
-      "cash": 1000.0,
+      "cash": 11.330000000000041,
       "positions": {},
-      "timestamp": "2025-10-01T22:16:18.290439"
+      "timestamp": "2025-10-02T11:57:19.019828"
     },
     {
-      "date": "2024-12-03",
-      "portfolio_value": 1000.0,
-      "daily_return": 0.0,
-      "total_return": 0.0,
-      "cash": 1000.0,
+      "date": "2023-10-13",
+      "portfolio_value": 1000.36,
+      "daily_return": 0.00036000000000001363,
+      "total_return": 0.00036000000000001363,
+      "cash": 684.1500000000001,
       "positions": {},
-      "timestamp": "2025-10-01T22:16:18.290439"
+      "timestamp": "2025-10-02T11:59:05.952789"
     },
     {
-      "date": "2025-10-01",
-      "portfolio_value": 1000.0,
-      "daily_return": 0.0,
-      "total_return": 0.0,
-      "cash": 1000.0,
+      "date": "2023-10-20",
+      "portfolio_value": 992.6300000000001,
+      "daily_return": -0.007727218201447383,
+      "total_return": -0.0073699999999998905,
+      "cash": 88.52000000000008,
       "positions": {},
-      "timestamp": "2025-10-02T07:33:41.374645"
+      "timestamp": "2025-10-02T12:00:53.788582"
     },
     {
-      "date": "2025-09-26",
-      "portfolio_value": 1000.0,
-      "daily_return": 0.0,
-      "total_return": 0.0,
-      "cash": 1000.0,
+      "date": "2023-10-27",
+      "portfolio_value": 954.2900000000001,
+      "daily_return": -0.03862466377199966,
+      "total_return": -0.045709999999999924,
+      "cash": 501.9000000000001,
       "positions": {},
-      "timestamp": "2025-10-02T07:34:13.880754"
+      "timestamp": "2025-10-02T12:02:24.630123"
     },
     {
-      "date": "2025-09-26",
-      "portfolio_value": 1000.0,
-      "daily_return": 0.0,
-      "total_return": 0.0,
-      "cash": 1000.0,
+      "date": "2023-11-03",
+      "portfolio_value": 987.69,
+      "daily_return": 0.03499984281507715,
+      "total_return": -0.012309999999999946,
+      "cash": 20.990000000000094,
       "positions": {},
-      "timestamp": "2025-10-02T07:37:34.164751"
+      "timestamp": "2025-10-02T12:04:30.620255"
+    },
+    {
+      "date": "2023-11-10",
+      "portfolio_value": 1016.4900000000001,
+      "daily_return": 0.02915894663305295,
+      "total_return": 0.016490000000000123,
+      "cash": 504.1400000000001,
+      "positions": {},
+      "timestamp": "2025-10-02T12:07:12.209252"
+    },
+    {
+      "date": "2023-11-17",
+      "portfolio_value": 1026.3400000000001,
+      "daily_return": 0.009690208462454152,
+      "total_return": 0.026340000000000145,
+      "cash": 9.900000000000091,
+      "positions": {},
+      "timestamp": "2025-10-02T12:09:31.575697"
+    },
+    {
+      "date": "2023-11-24",
+      "portfolio_value": 1027.0500000000002,
+      "daily_return": 0.000691778552916223,
+      "total_return": 0.02705000000000018,
+      "cash": 509.2700000000001,
+      "positions": {},
+      "timestamp": "2025-10-02T12:11:37.606488"
+    },
+    {
+      "date": "2023-12-01",
+      "portfolio_value": 1019.4500000000002,
+      "daily_return": -0.007399834477386711,
+      "total_return": 0.019450000000000158,
+      "cash": 20.34000000000009,
+      "positions": {},
+      "timestamp": "2025-10-02T12:12:49.977442"
+    },
+    {
+      "date": "2023-12-08",
+      "portfolio_value": 1029.15,
+      "daily_return": 0.009514934523517515,
+      "total_return": 0.029150000000000093,
+      "cash": 508.4100000000001,
+      "positions": {},
+      "timestamp": "2025-10-02T12:14:56.716727"
+    },
+    {
+      "date": "2023-12-15",
+      "portfolio_value": 1034.14,
+      "daily_return": 0.004848661516785705,
+      "total_return": 0.0341400000000001,
+      "cash": 19.310000000000088,
+      "positions": {},
+      "timestamp": "2025-10-02T12:17:19.619695"
+    },
+    {
+      "date": "2023-12-22",
+      "portfolio_value": 1047.6800000000003,
+      "daily_return": 0.01309300481559575,
+      "total_return": 0.04768000000000029,
+      "cash": 517.2700000000001,
+      "positions": {},
+      "timestamp": "2025-10-02T12:19:26.657169"
+    },
+    {
+      "date": "2023-12-29",
+      "portfolio_value": 1047.5700000000002,
+      "daily_return": -0.00010499389126462976,
+      "total_return": 0.04757000000000016,
+      "cash": 20.920000000000073,
+      "positions": {},
+      "timestamp": "2025-10-02T12:21:13.794704"
+    },
+    {
+      "date": "2024-01-05",
+      "portfolio_value": 1035.55,
+      "daily_return": -0.011474173563580674,
+      "total_return": 0.03554999999999996,
+      "cash": 522.24,
+      "positions": {},
+      "timestamp": "2025-10-02T12:22:30.618758"
+    },
+    {
+      "date": "2024-01-12",
+      "portfolio_value": 1069.65,
+      "daily_return": 0.03292936120901949,
+      "total_return": 0.06965000000000009,
+      "cash": 15.969999999999999,
+      "positions": {},
+      "timestamp": "2025-10-02T12:24:44.611972"
+    },
+    {
+      "date": "2024-01-19",
+      "portfolio_value": 1105.24,
+      "daily_return": 0.033272565792548885,
+      "total_return": 0.10524000000000001,
+      "cash": 529.34,
+      "positions": {},
+      "timestamp": "2025-10-02T12:26:50.657262"
+    },
+    {
+      "date": "2024-01-26",
+      "portfolio_value": 1118.0700000000002,
+      "daily_return": 0.011608338460425026,
+      "total_return": 0.11807000000000016,
+      "cash": 143.94000000000005,
+      "positions": {},
+      "timestamp": "2025-10-02T12:28:56.651366"
+    },
+    {
+      "date": "2024-02-02",
+      "portfolio_value": 1127.56,
+      "daily_return": 0.008487840653983902,
+      "total_return": 0.12755999999999995,
+      "cash": 458.47,
+      "positions": {},
+      "timestamp": "2025-10-02T12:29:51.654204"
+    },
+    {
+      "date": "2024-02-09",
+      "portfolio_value": 1161.71,
+      "daily_return": 0.030286636631310166,
+      "total_return": 0.16171000000000005,
+      "cash": 15.54000000000002,
+      "positions": {},
+      "timestamp": "2025-10-02T12:31:57.065744"
+    },
+    {
+      "date": "2024-02-16",
+      "portfolio_value": 1162.14,
+      "daily_return": 0.00037014401184466315,
+      "total_return": 0.1621400000000001,
+      "cash": 421.53000000000003,
+      "positions": {},
+      "timestamp": "2025-10-02T12:33:08.883223"
+    },
+    {
+      "date": "2024-02-23",
+      "portfolio_value": 1176.44,
+      "daily_return": 0.01230488581410153,
+      "total_return": 0.17644000000000004,
+      "cash": 4.310000000000002,
+      "positions": {},
+      "timestamp": "2025-10-02T12:34:38.838536"
+    },
+    {
+      "date": "2024-03-01",
+      "portfolio_value": 1177.6999999999998,
+      "daily_return": 0.0010710278467238137,
+      "total_return": 0.17769999999999983,
+      "cash": 411.42,
+      "positions": {},
+      "timestamp": "2025-10-02T12:35:50.963044"
+    },
+    {
+      "date": "2024-03-08",
+      "portfolio_value": 1155.49,
+      "daily_return": -0.018858792561772787,
+      "total_return": 0.15549000000000002,
+      "cash": 192.81000000000003,
+      "positions": {},
+      "timestamp": "2025-10-02T12:37:38.077348"
+    },
+    {
+      "date": "2024-03-15",
+      "portfolio_value": 1159.6599999999999,
+      "daily_return": 0.003608858579476971,
+      "total_return": 0.15965999999999986,
+      "cash": 343.0400000000001,
+      "positions": {},
+      "timestamp": "2025-10-02T12:38:59.925179"
+    },
+    {
+      "date": "2024-03-22",
+      "portfolio_value": 1196.33,
+      "daily_return": 0.03162133728851567,
+      "total_return": 0.19632999999999992,
+      "cash": 190.82000000000008,
+      "positions": {},
+      "timestamp": "2025-10-02T12:40:47.621882"
+    },
+    {
+      "date": "2024-04-05",
+      "portfolio_value": 1175.9,
+      "daily_return": -0.01707722785519032,
+      "total_return": 0.17590000000000008,
+      "cash": 259.9900000000001,
+      "positions": {},
+      "timestamp": "2025-10-02T12:41:42.304399"
+    },
+    {
+      "date": "2024-04-12",
+      "portfolio_value": 1200.94,
+      "daily_return": 0.021294327748958213,
+      "total_return": 0.20094000000000006,
+      "cash": 254.49000000000012,
+      "positions": {},
+      "timestamp": "2025-10-02T12:43:29.651177"
+    },
+    {
+      "date": "2024-04-19",
+      "portfolio_value": 1114.23,
+      "daily_return": -0.0722017752760338,
+      "total_return": 0.11423000000000001,
+      "cash": 118.35000000000008,
+      "positions": {},
+      "timestamp": "2025-10-02T12:45:17.784924"
+    },
+    {
+      "date": "2024-04-26",
+      "portfolio_value": 1231.3200000000002,
+      "daily_return": 0.10508602353194596,
+      "total_return": 0.23132000000000016,
+      "cash": 458.59000000000003,
+      "positions": {},
+      "timestamp": "2025-10-02T12:47:05.724538"
+    },
+    {
+      "date": "2024-05-03",
+      "portfolio_value": 1256.77,
+      "daily_return": 0.020668875678133886,
+      "total_return": 0.25677,
+      "cash": 107.97000000000003,
+      "positions": {},
+      "timestamp": "2025-10-02T12:47:42.003422"
+    },
+    {
+      "date": "2024-05-10",
+      "portfolio_value": 1249.48,
+      "daily_return": -0.005800584036856357,
+      "total_return": 0.24948,
+      "cash": 459.6700000000001,
+      "positions": {},
+      "timestamp": "2025-10-02T12:49:29.569645"
+    },
+    {
+      "date": "2024-05-17",
+      "portfolio_value": 1280.5,
+      "daily_return": 0.02482632775234496,
+      "total_return": 0.2805,
+      "cash": 93.74000000000007,
+      "positions": {},
+      "timestamp": "2025-10-02T12:51:36.027117"
+    },
+    {
+      "date": "2024-05-24",
+      "portfolio_value": 1322.33,
+      "daily_return": 0.032666926981647734,
+      "total_return": 0.32232999999999995,
+      "cash": 565.1800000000001,
+      "positions": {},
+      "timestamp": "2025-10-02T12:52:50.505988"
+    },
+    {
+      "date": "2024-05-31",
+      "portfolio_value": 1327.27,
+      "daily_return": 0.003735829936551432,
+      "total_return": 0.32727,
+      "cash": 22.35000000000005,
+      "positions": {},
+      "timestamp": "2025-10-02T12:53:55.345434"
+    },
+    {
+      "date": "2024-06-07",
+      "portfolio_value": 1361.7900000000002,
+      "daily_return": 0.02600827261973842,
+      "total_return": 0.36179000000000017,
+      "cash": 571.1800000000001,
+      "positions": {},
+      "timestamp": "2025-10-02T12:55:41.270165"
+    },
+    {
+      "date": "2024-06-14",
+      "portfolio_value": 1402.23,
+      "daily_return": 0.029696208666534357,
+      "total_return": 0.40223000000000003,
+      "cash": 165.64000000000004,
+      "positions": {},
+      "timestamp": "2025-10-02T12:57:47.093955"
+    },
+    {
+      "date": "2024-06-21",
+      "portfolio_value": 1398.53,
+      "daily_return": -0.002638654143756763,
+      "total_return": 0.39853,
+      "cash": 575.26,
+      "positions": {},
+      "timestamp": "2025-10-02T12:59:17.085181"
+    },
+    {
+      "date": "2024-06-28",
+      "portfolio_value": 1412.99,
+      "daily_return": 0.010339427827790635,
+      "total_return": 0.41299,
+      "cash": 182.48999999999998,
+      "positions": {},
+      "timestamp": "2025-10-02T13:01:05.315703"
+    },
+    {
+      "date": "2024-07-05",
+      "portfolio_value": 1519.55,
+      "daily_return": 0.07541454645821977,
+      "total_return": 0.51955,
+      "cash": 599.43,
+      "positions": {},
+      "timestamp": "2025-10-02T13:03:11.276481"
+    },
+    {
+      "date": "2024-07-12",
+      "portfolio_value": 1521.75,
+      "daily_return": 0.0014477970451778786,
+      "total_return": 0.52175,
+      "cash": 174.98999999999995,
+      "positions": {},
+      "timestamp": "2025-10-02T13:04:41.090020"
+    },
+    {
+      "date": "2024-07-19",
+      "portfolio_value": 1486.49,
+      "daily_return": -0.023170691637916865,
+      "total_return": 0.48649000000000003,
+      "cash": 609.46,
+      "positions": {},
+      "timestamp": "2025-10-02T13:06:11.963075"
+    },
+    {
+      "date": "2024-07-26",
+      "portfolio_value": 1440.3400000000001,
+      "daily_return": -0.031046290254222942,
+      "total_return": 0.4403400000000001,
+      "cash": 4.800000000000011,
+      "positions": {},
+      "timestamp": "2025-10-02T13:07:54.408337"
+    },
+    {
+      "date": "2024-08-02",
+      "portfolio_value": 1408.55,
+      "daily_return": -0.022071177638613236,
+      "total_return": 0.40854999999999997,
+      "cash": 599.82,
+      "positions": {},
+      "timestamp": "2025-10-02T13:09:53.989160"
+    },
+    {
+      "date": "2024-08-09",
+      "portfolio_value": 1389.23,
+      "daily_return": -0.013716233005573062,
+      "total_return": 0.38923,
+      "cash": 4.480000000000047,
+      "positions": {},
+      "timestamp": "2025-10-02T13:12:36.002214"
+    },
+    {
+      "date": "2024-08-16",
+      "portfolio_value": 1466.24,
+      "daily_return": 0.055433585511398396,
+      "total_return": 0.46624,
+      "cash": 448.99,
+      "positions": {},
+      "timestamp": "2025-10-02T13:14:42.242464"
+    },
+    {
+      "date": "2024-08-23",
+      "portfolio_value": 1486.13,
+      "daily_return": 0.013565309908337039,
+      "total_return": 0.4861300000000001,
+      "cash": 32.19999999999999,
+      "positions": {},
+      "timestamp": "2025-10-02T13:16:48.007089"
+    },
+    {
+      "date": "2024-08-30",
+      "portfolio_value": 1457.95,
+      "daily_return": -0.018962001978292654,
+      "total_return": 0.45795,
+      "cash": 449.34,
+      "positions": {},
+      "timestamp": "2025-10-02T13:18:17.819957"
+    },
+    {
+      "date": "2024-09-06",
+      "portfolio_value": 1388.3899999999999,
+      "daily_return": -0.0477108268459139,
+      "total_return": 0.38838999999999985,
+      "cash": 47.639999999999986,
+      "positions": {},
+      "timestamp": "2025-10-02T13:19:30.217342"
+    },
+    {
+      "date": "2024-09-13",
+      "portfolio_value": 1484.1399999999999,
+      "daily_return": 0.0689647721461549,
+      "total_return": 0.48413999999999985,
+      "cash": 478.22999999999996,
+      "positions": {},
+      "timestamp": "2025-10-02T13:21:18.188338"
+    },
+    {
+      "date": "2024-09-20",
+      "portfolio_value": 1503.8600000000001,
+      "daily_return": 0.0132871561982025,
+      "total_return": 0.5038600000000001,
+      "cash": 22.91999999999996,
+      "positions": {},
+      "timestamp": "2025-10-02T13:23:04.683404"
+    },
+    {
+      "date": "2024-09-27",
+      "portfolio_value": 1539.3400000000001,
+      "daily_return": 0.023592621653611385,
+      "total_return": 0.5393400000000002,
+      "cash": 480.39,
+      "positions": {},
+      "timestamp": "2025-10-02T13:25:04.640135"
+    },
+    {
+      "date": "2024-10-04",
+      "portfolio_value": 1541.23,
+      "daily_return": 0.001227798926812707,
+      "total_return": 0.54123,
+      "cash": 253.58999999999997,
+      "positions": {},
+      "timestamp": "2025-10-02T13:27:10.408746"
+    },
+    {
+      "date": "2024-10-11",
+      "portfolio_value": 1522.57,
+      "daily_return": -0.012107213070080444,
+      "total_return": 0.52257,
+      "cash": 263.34,
+      "positions": {},
+      "timestamp": "2025-10-02T13:28:40.793672"
+    },
+    {
+      "date": "2024-10-18",
+      "portfolio_value": 1542.5799999999997,
+      "daily_return": 0.013142252901344282,
+      "total_return": 0.5425799999999997,
+      "cash": 484.03999999999996,
+      "positions": {},
+      "timestamp": "2025-10-02T13:30:10.639757"
+    },
+    {
+      "date": "2024-10-25",
+      "portfolio_value": 1598.26,
+      "daily_return": 0.03609537268731625,
+      "total_return": 0.59826,
+      "cash": 252.62999999999997,
+      "positions": {},
+      "timestamp": "2025-10-02T13:31:22.461491"
+    },
+    {
+      "date": "2024-11-01",
+      "portfolio_value": 1560.81,
+      "daily_return": -0.023431732008559338,
+      "total_return": 0.5608099999999999,
+      "cash": 475.53999999999996,
+      "positions": {},
+      "timestamp": "2025-10-02T13:33:28.980497"
+    },
+    {
+      "date": "2024-11-08",
+      "portfolio_value": 1675.6799999999998,
+      "daily_return": 0.07359640186826065,
+      "total_return": 0.6756799999999998,
+      "cash": 248.57999999999996,
+      "positions": {},
+      "timestamp": "2025-10-02T13:34:08.828503"
+    },
+    {
+      "date": "2024-11-15",
+      "portfolio_value": 1648.24,
+      "daily_return": -0.01637544161176348,
+      "total_return": 0.64824,
+      "cash": 473.5799999999999,
+      "positions": {},
+      "timestamp": "2025-10-02T13:35:52.911445"
+    },
+    {
+      "date": "2024-11-22",
+      "portfolio_value": 1669.4299999999998,
+      "daily_return": 0.012856137455710228,
+      "total_return": 0.6694299999999999,
+      "cash": 243.70999999999992,
+      "positions": {},
+      "timestamp": "2025-10-02T13:37:22.851207"
+    },
+    {
+      "date": "2024-11-29",
+      "portfolio_value": 1677.9299999999998,
+      "daily_return": 0.005091558196510187,
+      "total_return": 0.6779299999999998,
+      "cash": 481.03999999999996,
+      "positions": {},
+      "timestamp": "2025-10-02T13:38:23.625375"
+    },
+    {
+      "date": "2024-12-06",
+      "portfolio_value": 1747.4,
+      "daily_return": 0.04140220390600339,
+      "total_return": 0.7474000000000001,
+      "cash": 238.19999999999996,
+      "positions": {},
+      "timestamp": "2025-10-02T13:40:37.331308"
+    },
+    {
+      "date": "2024-12-13",
+      "portfolio_value": 1818.8300000000002,
+      "daily_return": 0.04087787570104158,
+      "total_return": 0.8188300000000002,
+      "cash": 788.31,
+      "positions": {},
+      "timestamp": "2025-10-02T13:42:43.307349"
+    },
+    {
+      "date": "2024-12-20",
+      "portfolio_value": 1829.7199999999998,
+      "daily_return": 0.005987365504197558,
+      "total_return": 0.8297199999999998,
+      "cash": 80.61999999999995,
+      "positions": {},
+      "timestamp": "2025-10-02T13:44:49.355425"
+    },
+    {
+      "date": "2024-12-27",
+      "portfolio_value": 1844.86,
+      "daily_return": 0.00827449008591484,
+      "total_return": 0.8448599999999999,
+      "cash": 792.7199999999999,
+      "positions": {},
+      "timestamp": "2025-10-02T13:46:38.105756"
+    },
+    {
+      "date": "2025-01-03",
+      "portfolio_value": 1853.0699999999997,
+      "daily_return": 0.004450202183363404,
+      "total_return": 0.8530699999999997,
+      "cash": 240.2699999999999,
+      "positions": {},
+      "timestamp": "2025-10-02T13:48:25.699884"
+    },
+    {
+      "date": "2025-01-10",
+      "portfolio_value": 1812.53,
+      "daily_return": -0.021877209171806647,
+      "total_return": 0.81253,
+      "cash": 783.87,
+      "positions": {},
+      "timestamp": "2025-10-02T13:50:49.523516"
+    },
+    {
+      "date": "2025-01-17",
+      "portfolio_value": 1818.98,
+      "daily_return": 0.003558561789322133,
+      "total_return": 0.81898,
+      "cash": 223.65,
+      "positions": {},
+      "timestamp": "2025-10-02T13:52:55.719143"
+    },
+    {
+      "date": "2025-01-24",
+      "portfolio_value": 1818.0600000000002,
+      "daily_return": -0.0005057779634739499,
+      "total_return": 0.8180600000000001,
+      "cash": 909.62,
+      "positions": {},
+      "timestamp": "2025-10-02T13:53:34.363275"
+    },
+    {
+      "date": "2025-01-31",
+      "portfolio_value": 1793.8,
+      "daily_return": -0.01334389404090086,
+      "total_return": 0.7938,
+      "cash": 288.90000000000003,
+      "positions": {},
+      "timestamp": "2025-10-02T13:54:54.931050"
+    },
+    {
+      "date": "2025-02-07",
+      "portfolio_value": 1791.76,
+      "daily_return": -0.001137250529601942,
+      "total_return": 0.79176,
+      "cash": 803.93,
+      "positions": {},
+      "timestamp": "2025-10-02T13:57:00.627997"
+    },
+    {
+      "date": "2025-02-14",
+      "portfolio_value": 1835.54,
+      "daily_return": 0.024434075992320385,
+      "total_return": 0.83554,
+      "cash": 218.58999999999995,
+      "positions": {},
+      "timestamp": "2025-10-02T13:58:12.842920"
+    },
+    {
+      "date": "2025-02-21",
+      "portfolio_value": 1816.6100000000001,
+      "daily_return": -0.010313041393813175,
+      "total_return": 0.8166100000000002,
+      "cash": 808.45,
+      "positions": {},
+      "timestamp": "2025-10-02T14:00:19.009769"
+    },
+    {
+      "date": "2025-02-28",
+      "portfolio_value": 1765.6100000000001,
+      "daily_return": -0.028074270206593598,
+      "total_return": 0.7656100000000001,
+      "cash": 52.77999999999997,
+      "positions": {},
+      "timestamp": "2025-10-02T14:01:48.821355"
+    },
+    {
+      "date": "2025-03-07",
+      "portfolio_value": 1712.3300000000002,
+      "daily_return": -0.03017653955290238,
+      "total_return": 0.7123300000000001,
+      "cash": 787.47,
+      "positions": {},
+      "timestamp": "2025-10-02T14:04:12.832108"
+    },
+    {
+      "date": "2025-03-14",
+      "portfolio_value": 1696.95,
+      "daily_return": -0.008981913533022318,
+      "total_return": 0.6969500000000001,
+      "cash": 59.379999999999995,
+      "positions": {},
+      "timestamp": "2025-10-02T14:05:43.452208"
+    },
+    {
+      "date": "2025-03-21",
+      "portfolio_value": 1698.9099999999999,
+      "daily_return": 0.0011550134064054975,
+      "total_return": 0.6989099999999998,
+      "cash": 799.56,
+      "positions": {},
+      "timestamp": "2025-10-02T14:07:49.092378"
+    },
+    {
+      "date": "2025-03-28",
+      "portfolio_value": 1655.13,
+      "daily_return": -0.025769463950415118,
+      "total_return": 0.6551300000000001,
+      "cash": 55.35000000000002,
+      "positions": {},
+      "timestamp": "2025-10-02T14:08:41.393428"
+    },
+    {
+      "date": "2025-04-04",
+      "portfolio_value": 1499.7800000000002,
+      "daily_return": -0.09385969682139765,
+      "total_return": 0.4997800000000002,
+      "cash": 737.27,
+      "positions": {},
+      "timestamp": "2025-10-02T14:10:02.121036"
+    },
+    {
+      "date": "2025-04-11",
+      "portfolio_value": 1582.49,
+      "daily_return": 0.05514808838629652,
+      "total_return": 0.5824900000000001,
+      "cash": 15.009999999999991,
+      "positions": {},
+      "timestamp": "2025-10-02T14:10:55.865348"
+    },
+    {
+      "date": "2025-04-25",
+      "portfolio_value": 1621.48,
+      "daily_return": 0.024638386340514004,
+      "total_return": 0.62148,
+      "cash": 755.25,
+      "positions": {},
+      "timestamp": "2025-10-02T14:12:44.040058"
+    },
+    {
+      "date": "2025-05-02",
+      "portfolio_value": 1632.1599999999999,
+      "daily_return": 0.006586575227569774,
+      "total_return": 0.6321599999999998,
+      "cash": 10.100000000000023,
+      "positions": {},
+      "timestamp": "2025-10-02T14:14:50.132881"
+    },
+    {
+      "date": "2025-05-09",
+      "portfolio_value": 1576.35,
+      "daily_return": -0.03419395157337513,
+      "total_return": 0.5763499999999999,
+      "cash": 722.37,
+      "positions": {},
+      "timestamp": "2025-10-02T14:16:56.229856"
+    },
+    {
+      "date": "2025-05-16",
+      "portfolio_value": 1672.21,
+      "daily_return": 0.06081136803374893,
+      "total_return": 0.6722100000000001,
+      "cash": 192.24000000000004,
+      "positions": {},
+      "timestamp": "2025-10-02T14:18:25.852432"
+    },
+    {
+      "date": "2025-05-23",
+      "portfolio_value": 1632.48,
+      "daily_return": -0.023758977640368144,
+      "total_return": 0.63248,
+      "cash": 837.69,
+      "positions": {},
+      "timestamp": "2025-10-02T14:20:50.280326"
+    },
+    {
+      "date": "2025-05-30",
+      "portfolio_value": 1652.2800000000002,
+      "daily_return": 0.012128785651279146,
+      "total_return": 0.6522800000000002,
+      "cash": 132.88000000000005,
+      "positions": {},
+      "timestamp": "2025-10-02T14:22:02.509762"
+    },
+    {
+      "date": "2025-06-06",
+      "portfolio_value": 1665.0500000000002,
+      "daily_return": 0.007728714261505302,
+      "total_return": 0.6650500000000001,
+      "cash": 830.33,
+      "positions": {},
+      "timestamp": "2025-10-02T14:23:14.025358"
+    },
+    {
+      "date": "2025-06-13",
+      "portfolio_value": 1660.06,
+      "daily_return": -0.0029969069997899376,
+      "total_return": 0.66006,
+      "cash": 146.3400000000001,
+      "positions": {},
+      "timestamp": "2025-10-02T14:23:50.761666"
+    },
+    {
+      "date": "2025-06-20",
+      "portfolio_value": 1654.17,
+      "daily_return": -0.0035480645277880755,
+      "total_return": 0.65417,
+      "cash": 832.19,
+      "positions": {},
+      "timestamp": "2025-10-02T14:25:10.720243"
+    },
+    {
+      "date": "2025-06-27",
+      "portfolio_value": 1705.83,
+      "daily_return": 0.031230163767931866,
+      "total_return": 0.70583,
+      "cash": 145.43,
+      "positions": {},
+      "timestamp": "2025-10-02T14:26:22.419858"
     },
     {
       "date": "2025-07-11",
-      "portfolio_value": 1000.0,
-      "daily_return": 0.0,
-      "total_return": 0.0,
-      "cash": 1000.0,
+      "portfolio_value": 1733.8300000000002,
+      "daily_return": 0.016414296852558713,
+      "total_return": 0.7338300000000002,
+      "cash": 832.45,
       "positions": {},
-      "timestamp": "2025-10-02T07:38:16.743685"
+      "timestamp": "2025-10-02T14:27:53.969808"
     },
     {
-      "date": "2025-07-03",
-      "portfolio_value": 1000.0,
-      "daily_return": 0.0,
-      "total_return": 0.0,
-      "cash": 1000.0,
+      "date": "2025-07-18",
+      "portfolio_value": 1758.57,
+      "daily_return": 0.01426898830911899,
+      "total_return": 0.75857,
+      "cash": 147.46999999999997,
       "positions": {},
-      "timestamp": "2025-10-02T07:39:10.801065"
+      "timestamp": "2025-10-02T14:29:24.794562"
     },
     {
-      "date": "2025-07-07",
-      "portfolio_value": 1000.0,
-      "daily_return": 0.0,
-      "total_return": 0.0,
-      "cash": 1000.0,
+      "date": "2025-07-25",
+      "portfolio_value": 1792.6599999999999,
+      "daily_return": 0.019385068550015025,
+      "total_return": 0.7926599999999998,
+      "cash": 845.42,
       "positions": {},
-      "timestamp": "2025-10-02T07:39:10.801065"
+      "timestamp": "2025-10-02T14:32:22.144463"
     },
     {
-      "date": "2025-09-19",
-      "portfolio_value": 1000.0,
-      "daily_return": 0.0,
-      "total_return": 0.0,
-      "cash": 1000.0,
+      "date": "2025-08-01",
+      "portfolio_value": 1773.5,
+      "daily_return": -0.01068802784688667,
+      "total_return": 0.7735,
+      "cash": 170.2,
       "positions": {},
-      "timestamp": "2025-10-02T07:40:49.501956"
+      "timestamp": "2025-10-02T14:34:28.167627"
     },
     {
-      "date": "2025-09-26",
-      "portfolio_value": 1000.0,
-      "daily_return": 0.0,
-      "total_return": 0.0,
-      "cash": 1000.0,
+      "date": "2025-08-08",
+      "portfolio_value": 1862.5400000000002,
+      "daily_return": 0.050205807724838,
+      "total_return": 0.8625400000000002,
+      "cash": 864.9499999999999,
       "positions": {},
-      "timestamp": "2025-10-02T07:42:55.074354"
+      "timestamp": "2025-10-02T14:35:23.498762"
     },
     {
-      "date": "2025-09-26",
-      "portfolio_value": 1000.0,
-      "daily_return": 0.0,
-      "total_return": 0.0,
-      "cash": 1000.0,
+      "date": "2025-08-15",
+      "portfolio_value": 1865.2399999999998,
+      "daily_return": 0.0014496332964658962,
+      "total_return": 0.8652399999999998,
+      "cash": 156.1599999999999,
       "positions": {},
-      "timestamp": "2025-10-02T08:04:34.393163"
+      "timestamp": "2025-10-02T14:37:47.166244"
+    },
+    {
+      "date": "2025-08-22",
+      "portfolio_value": 1868.84,
+      "daily_return": 0.001930046535566542,
+      "total_return": 0.86884,
+      "cash": 872.9199999999998,
+      "positions": {},
+      "timestamp": "2025-10-02T14:39:05.006365"
     },
     {
       "date": "2025-08-29",
-      "portfolio_value": 1000.0,
-      "daily_return": 0.0,
-      "total_return": 0.0,
-      "cash": 1000.0,
+      "portfolio_value": 1879.2399999999998,
+      "daily_return": 0.005564949380364217,
+      "total_return": 0.8792399999999998,
+      "cash": 16.839999999999804,
       "positions": {},
-      "timestamp": "2025-10-02T12:10:05.133596"
+      "timestamp": "2025-10-02T14:40:53.373198"
     },
     {
       "date": "2025-09-05",
-      "portfolio_value": 1000.0,
-      "daily_return": 0.0,
-      "total_return": 0.0,
-      "cash": 1000.0,
+      "portfolio_value": 1915.87,
+      "daily_return": 0.0194919222664482,
+      "total_return": 0.9158699999999999,
+      "cash": 756.2999999999997,
       "positions": {},
-      "timestamp": "2025-10-02T12:13:02.475544"
+      "timestamp": "2025-10-02T14:42:41.380004"
     },
     {
       "date": "2025-09-12",
-      "portfolio_value": 1000.0,
-      "daily_return": 0.0,
-      "total_return": 0.0,
-      "cash": 1000.0,
+      "portfolio_value": 1982.7499999999998,
+      "daily_return": 0.0349084228053051,
+      "total_return": 0.9827499999999998,
+      "cash": 28.48999999999978,
       "positions": {},
-      "timestamp": "2025-10-02T12:23:39.459870"
+      "timestamp": "2025-10-02T14:44:29.275234"
     },
     {
       "date": "2025-09-19",
-      "portfolio_value": 1000.0,
-      "daily_return": 0.0,
-      "total_return": 0.0,
-      "cash": 1000.0,
+      "portfolio_value": 2046.4699999999998,
+      "daily_return": 0.03213718320514439,
+      "total_return": 1.0464699999999998,
+      "cash": 766.8399999999998,
       "positions": {},
-      "timestamp": "2025-10-02T12:31:59.991538"
+      "timestamp": "2025-10-02T14:47:11.199847"
     },
     {
       "date": "2025-09-26",
-      "portfolio_value": 1000.0,
-      "daily_return": 0.0,
-      "total_return": 0.0,
-      "cash": 1000.0,
+      "portfolio_value": 2065.62,
+      "daily_return": 0.009357576705253482,
+      "total_return": 1.0656199999999998,
+      "cash": 11.349999999999795,
       "positions": {},
-      "timestamp": "2025-10-02T12:42:21.280752"
+      "timestamp": "2025-10-02T14:50:11.250950"
+    }
+  ],
+  "trade_history": [
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "BUY",
+      "shares": 1,
+      "price": 177.49,
+      "value": 177.49,
+      "reasoning": "BUY consensus: 44.4% vote strength (threshold: 35.0%)"
     },
     {
       "date": "2025-10-02",
-      "portfolio_value": 1000.0,
-      "daily_return": 0.0,
-      "total_return": 0.0,
-      "cash": 1000.0,
-      "positions": {},
-      "timestamp": "2025-10-02T14:15:19.564098"
+      "ticker": "BRK.B",
+      "action": "BUY",
+      "shares": 1,
+      "price": 346.34,
+      "value": 346.34,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "GOOGL",
+      "action": "BUY",
+      "shares": 1,
+      "price": 137.58,
+      "value": 137.58,
+      "reasoning": "BUY consensus: 44.4% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "MSFT",
+      "action": "BUY",
+      "shares": 1,
+      "price": 327.26,
+      "value": 327.26,
+      "reasoning": "BUY consensus: 44.4% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "SELL",
+      "shares": 1,
+      "price": 345.09,
+      "value": 345.09,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 34.5% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "MSFT",
+      "action": "SELL",
+      "shares": 1,
+      "price": 327.73,
+      "value": 327.73,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 32.8% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "BUY",
+      "shares": 1,
+      "price": 335.86,
+      "value": 335.86,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "GOOGL",
+      "action": "BUY",
+      "shares": 1,
+      "price": 135.6,
+      "value": 135.6,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "NVDA",
+      "action": "BUY",
+      "shares": 3,
+      "price": 41.39,
+      "value": 124.17,
+      "reasoning": "BUY consensus: 44.4% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "SELL",
+      "shares": 1,
+      "price": 331.71,
+      "value": 331.71,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 34.8% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "GOOGL",
+      "action": "SELL",
+      "shares": 1,
+      "price": 122.17,
+      "value": 122.17,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 25.6% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "NVDA",
+      "action": "BUY",
+      "shares": 1,
+      "price": 40.5,
+      "value": 40.5,
+      "reasoning": "BUY consensus: 44.4% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "BUY",
+      "shares": 1,
+      "price": 351.81,
+      "value": 351.81,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "GOOGL",
+      "action": "BUY",
+      "shares": 1,
+      "price": 129.1,
+      "value": 129.1,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "SELL",
+      "shares": 1,
+      "price": 350.56,
+      "value": 350.56,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 34.5% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "GOOGL",
+      "action": "SELL",
+      "shares": 1,
+      "price": 132.59,
+      "value": 132.59,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 26.1% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "BUY",
+      "shares": 1,
+      "price": 358.93,
+      "value": 358.93,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "GOOGL",
+      "action": "BUY",
+      "shares": 1,
+      "price": 135.31,
+      "value": 135.31,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "SELL",
+      "shares": 1,
+      "price": 362.68,
+      "value": 362.68,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 35.3% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "GOOGL",
+      "action": "SELL",
+      "shares": 1,
+      "price": 136.69,
+      "value": 136.69,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 26.6% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "BUY",
+      "shares": 1,
+      "price": 357.07,
+      "value": 357.07,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "GOOGL",
+      "action": "BUY",
+      "shares": 1,
+      "price": 131.86,
+      "value": 131.86,
+      "reasoning": "BUY consensus: 44.4% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "SELL",
+      "shares": 1,
+      "price": 353.08,
+      "value": 353.08,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 34.3% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "GOOGL",
+      "action": "SELL",
+      "shares": 1,
+      "price": 134.99,
+      "value": 134.99,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 26.2% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "BUY",
+      "shares": 1,
+      "price": 356.5,
+      "value": 356.5,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "GOOGL",
+      "action": "BUY",
+      "shares": 1,
+      "price": 132.6,
+      "value": 132.6,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "SELL",
+      "shares": 1,
+      "price": 356.47,
+      "value": 356.47,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 34.0% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "GOOGL",
+      "action": "SELL",
+      "shares": 1,
+      "price": 141.49,
+      "value": 141.49,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 27.0% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "BUY",
+      "shares": 1,
+      "price": 356.66,
+      "value": 356.66,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "GOOGL",
+      "action": "BUY",
+      "shares": 1,
+      "price": 139.69,
+      "value": 139.69,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "SELL",
+      "shares": 1,
+      "price": 365.59,
+      "value": 365.59,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 35.3% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "GOOGL",
+      "action": "SELL",
+      "shares": 1,
+      "price": 135.73,
+      "value": 135.73,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 26.2% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "BUY",
+      "shares": 1,
+      "price": 363.62,
+      "value": 363.62,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "GOOGL",
+      "action": "BUY",
+      "shares": 1,
+      "price": 142.65,
+      "value": 142.65,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "SELL",
+      "shares": 1,
+      "price": 366.99,
+      "value": 366.99,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 33.2% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "GOOGL",
+      "action": "SELL",
+      "shares": 1,
+      "price": 146.38,
+      "value": 146.38,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 26.5% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "BUY",
+      "shares": 1,
+      "price": 385.4,
+      "value": 385.4,
+      "reasoning": "BUY consensus: 44.4% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "SELL",
+      "shares": 1,
+      "price": 390.75,
+      "value": 390.75,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 34.7% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "GOOGL",
+      "action": "BUY",
+      "shares": 1,
+      "price": 142.38,
+      "value": 142.38,
+      "reasoning": "BUY consensus: 44.4% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "NVDA",
+      "action": "SELL",
+      "shares": 1,
+      "price": 66.16,
+      "value": 66.16,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 23.5% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "BUY",
+      "shares": 1,
+      "price": 398.36,
+      "value": 398.36,
+      "reasoning": "BUY consensus: 44.4% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "GOOGL",
+      "action": "SELL",
+      "shares": 1,
+      "price": 149.0,
+      "value": 149.0,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 25.7% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "TSLA",
+      "action": "BUY",
+      "shares": 1,
+      "price": 193.57,
+      "value": 193.57,
+      "reasoning": "BUY consensus: 44.4% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "SELL",
+      "shares": 1,
+      "price": 405.99,
+      "value": 405.99,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 34.9% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "BUY",
+      "shares": 1,
+      "price": 417.22,
+      "value": 417.22,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "SELL",
+      "shares": 1,
+      "price": 407.11,
+      "value": 407.11,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 34.6% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "BUY",
+      "shares": 1,
+      "price": 170.73,
+      "value": 170.73,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "GOOGL",
+      "action": "BUY",
+      "shares": 1,
+      "price": 135.41,
+      "value": 135.41,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "NVDA",
+      "action": "SELL",
+      "shares": 1,
+      "price": 87.53,
+      "value": 87.53,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 22.7% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "SELL",
+      "shares": 1,
+      "price": 172.62,
+      "value": 172.62,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 29.8% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "GOOGL",
+      "action": "SELL",
+      "shares": 1,
+      "price": 141.18,
+      "value": 141.18,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 24.3% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "TSLA",
+      "action": "BUY",
+      "shares": 1,
+      "price": 163.57,
+      "value": 163.57,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "BUY",
+      "shares": 1,
+      "price": 172.28,
+      "value": 172.28,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "GOOGL",
+      "action": "BUY",
+      "shares": 1,
+      "price": 150.77,
+      "value": 150.77,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "TSLA",
+      "action": "SELL",
+      "shares": 1,
+      "price": 170.83,
+      "value": 170.83,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 28.6% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "SELL",
+      "shares": 1,
+      "price": 169.58,
+      "value": 169.58,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 28.8% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "GOOGL",
+      "action": "SELL",
+      "shares": 1,
+      "price": 152.5,
+      "value": 152.5,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 25.9% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "NVDA",
+      "action": "BUY",
+      "shares": 1,
+      "price": 88.01,
+      "value": 88.01,
+      "reasoning": "BUY consensus: 44.4% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "TSLA",
+      "action": "BUY",
+      "shares": 1,
+      "price": 164.9,
+      "value": 164.9,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "BUY",
+      "shares": 1,
+      "price": 176.55,
+      "value": 176.55,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "TSLA",
+      "action": "SELL",
+      "shares": 1,
+      "price": 171.05,
+      "value": 171.05,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 28.5% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "SELL",
+      "shares": 1,
+      "price": 165.0,
+      "value": 165.0,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 29.6% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "GOOGL",
+      "action": "BUY",
+      "shares": 1,
+      "price": 154.09,
+      "value": 154.09,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "TSLA",
+      "action": "BUY",
+      "shares": 1,
+      "price": 147.05,
+      "value": 147.05,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "GOOGL",
+      "action": "SELL",
+      "shares": 1,
+      "price": 171.95,
+      "value": 171.95,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 27.9% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "TSLA",
+      "action": "SELL",
+      "shares": 1,
+      "price": 168.29,
+      "value": 168.29,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 27.3% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "BUY",
+      "shares": 1,
+      "price": 183.38,
+      "value": 183.38,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "GOOGL",
+      "action": "BUY",
+      "shares": 1,
+      "price": 167.24,
+      "value": 167.24,
+      "reasoning": "BUY consensus: 44.4% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "SELL",
+      "shares": 1,
+      "price": 183.05,
+      "value": 183.05,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 29.3% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "GOOGL",
+      "action": "SELL",
+      "shares": 1,
+      "price": 168.65,
+      "value": 168.65,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 27.0% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "BUY",
+      "shares": 1,
+      "price": 189.87,
+      "value": 189.87,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "GOOGL",
+      "action": "BUY",
+      "shares": 1,
+      "price": 176.06,
+      "value": 176.06,
+      "reasoning": "BUY consensus: 44.4% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "SELL",
+      "shares": 1,
+      "price": 189.98,
+      "value": 189.98,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 28.7% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "GOOGL",
+      "action": "SELL",
+      "shares": 1,
+      "price": 174.99,
+      "value": 174.99,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 26.5% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "NVDA",
+      "action": "SELL",
+      "shares": 1,
+      "price": 106.47,
+      "value": 106.47,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 24.2% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "BUY",
+      "shares": 1,
+      "price": 192.25,
+      "value": 192.25,
+      "reasoning": "BUY consensus: 44.4% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "GOOGL",
+      "action": "BUY",
+      "shares": 1,
+      "price": 172.5,
+      "value": 172.5,
+      "reasoning": "BUY consensus: 44.4% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "TSLA",
+      "action": "BUY",
+      "shares": 1,
+      "price": 178.08,
+      "value": 178.08,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "SELL",
+      "shares": 1,
+      "price": 196.89,
+      "value": 196.89,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 28.9% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "GOOGL",
+      "action": "SELL",
+      "shares": 1,
+      "price": 174.46,
+      "value": 174.46,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 25.6% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "TSLA",
+      "action": "SELL",
+      "shares": 1,
+      "price": 177.48,
+      "value": 177.48,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 26.1% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "BUY",
+      "shares": 1,
+      "price": 405.54,
+      "value": 405.54,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "SELL",
+      "shares": 1,
+      "price": 409.62,
+      "value": 409.62,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 29.3% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "BUY",
+      "shares": 1,
+      "price": 210.62,
+      "value": 210.62,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "GOOGL",
+      "action": "BUY",
+      "shares": 1,
+      "price": 182.15,
+      "value": 182.15,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "SELL",
+      "shares": 1,
+      "price": 226.34,
+      "value": 226.34,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 29.8% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "GOOGL",
+      "action": "SELL",
+      "shares": 1,
+      "price": 190.6,
+      "value": 190.6,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 25.1% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "BUY",
+      "shares": 1,
+      "price": 424.44,
+      "value": 424.44,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "SELL",
+      "shares": 1,
+      "price": 434.47,
+      "value": 434.47,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 29.2% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "BUY",
+      "shares": 1,
+      "price": 437.66,
+      "value": 437.66,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "GOOGL",
+      "action": "BUY",
+      "shares": 1,
+      "price": 167.0,
+      "value": 167.0,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "SELL",
+      "shares": 1,
+      "price": 428.36,
+      "value": 428.36,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 30.4% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "GOOGL",
+      "action": "SELL",
+      "shares": 1,
+      "price": 166.66,
+      "value": 166.66,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 23.7% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "BUY",
+      "shares": 1,
+      "price": 431.67,
+      "value": 431.67,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "GOOGL",
+      "action": "BUY",
+      "shares": 1,
+      "price": 163.67,
+      "value": 163.67,
+      "reasoning": "BUY consensus: 44.4% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "SELL",
+      "shares": 1,
+      "price": 444.51,
+      "value": 444.51,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 30.3% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "MSFT",
+      "action": "BUY",
+      "shares": 1,
+      "price": 416.79,
+      "value": 416.79,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "MSFT",
+      "action": "SELL",
+      "shares": 1,
+      "price": 417.14,
+      "value": 417.14,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 28.6% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "MSFT",
+      "action": "BUY",
+      "shares": 1,
+      "price": 401.7,
+      "value": 401.7,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "MSFT",
+      "action": "SELL",
+      "shares": 1,
+      "price": 430.59,
+      "value": 430.59,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 29.0% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "BUY",
+      "shares": 1,
+      "price": 455.31,
+      "value": 455.31,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "SELL",
+      "shares": 1,
+      "price": 457.47,
+      "value": 457.47,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 29.7% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "BUY",
+      "shares": 1,
+      "price": 226.8,
+      "value": 226.8,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "SELL",
+      "shares": 1,
+      "price": 227.55,
+      "value": 227.55,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 29.9% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "TSLA",
+      "action": "BUY",
+      "shares": 1,
+      "price": 217.8,
+      "value": 217.8,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "TSLA",
+      "action": "SELL",
+      "shares": 1,
+      "price": 220.7,
+      "value": 220.7,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 28.6% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "BUY",
+      "shares": 1,
+      "price": 231.41,
+      "value": 231.41,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "SELL",
+      "shares": 1,
+      "price": 222.91,
+      "value": 222.91,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 28.6% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "BUY",
+      "shares": 1,
+      "price": 226.96,
+      "value": 226.96,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "SELL",
+      "shares": 1,
+      "price": 225.0,
+      "value": 225.0,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 27.3% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "BUY",
+      "shares": 1,
+      "price": 229.87,
+      "value": 229.87,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "SELL",
+      "shares": 1,
+      "price": 237.33,
+      "value": 237.33,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 28.3% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "BUY",
+      "shares": 1,
+      "price": 242.84,
+      "value": 242.84,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "SELL",
+      "shares": 1,
+      "price": 248.13,
+      "value": 248.13,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 27.3% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "NVDA",
+      "action": "BUY",
+      "shares": 1,
+      "price": 134.25,
+      "value": 134.25,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "TSLA",
+      "action": "SELL",
+      "shares": 1,
+      "price": 436.23,
+      "value": 436.23,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 24.0% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "BUY",
+      "shares": 1,
+      "price": 254.49,
+      "value": 254.49,
+      "reasoning": "BUY consensus: 44.4% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "BUY",
+      "shares": 1,
+      "price": 453.2,
+      "value": 453.2,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "SELL",
+      "shares": 1,
+      "price": 255.59,
+      "value": 255.59,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 27.7% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "SELL",
+      "shares": 1,
+      "price": 456.51,
+      "value": 456.51,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 24.7% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "BUY",
+      "shares": 1,
+      "price": 243.36,
+      "value": 243.36,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "BUY",
+      "shares": 1,
+      "price": 453.56,
+      "value": 453.56,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "NVDA",
+      "action": "SELL",
+      "shares": 1,
+      "price": 144.47,
+      "value": 144.47,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 23.4% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "SELL",
+      "shares": 1,
+      "price": 236.85,
+      "value": 236.85,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 26.1% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "SELL",
+      "shares": 1,
+      "price": 442.66,
+      "value": 442.66,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 24.4% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "NVDA",
+      "action": "BUY",
+      "shares": 1,
+      "price": 135.91,
+      "value": 135.91,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "BUY",
+      "shares": 1,
+      "price": 229.98,
+      "value": 229.98,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "BUY",
+      "shares": 1,
+      "price": 467.95,
+      "value": 467.95,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "NVDA",
+      "action": "SELL",
+      "shares": 1,
+      "price": 137.71,
+      "value": 137.71,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 22.7% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "SELL",
+      "shares": 1,
+      "price": 222.78,
+      "value": 222.78,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 24.5% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "SELL",
+      "shares": 1,
+      "price": 463.19,
+      "value": 463.19,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 25.5% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "BUY",
+      "shares": 1,
+      "price": 236.0,
+      "value": 236.0,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "BUY",
+      "shares": 1,
+      "price": 468.67,
+      "value": 468.67,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "GOOGL",
+      "action": "SELL",
+      "shares": 1,
+      "price": 204.02,
+      "value": 204.02,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 22.7% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "NVDA",
+      "action": "BUY",
+      "shares": 1,
+      "price": 120.07,
+      "value": 120.07,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "SELL",
+      "shares": 1,
+      "price": 227.63,
+      "value": 227.63,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 25.4% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "SELL",
+      "shares": 1,
+      "price": 472.74,
+      "value": 472.74,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 26.4% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "GOOGL",
+      "action": "BUY",
+      "shares": 1,
+      "price": 185.34,
+      "value": 185.34,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "BUY",
+      "shares": 1,
+      "price": 244.6,
+      "value": 244.6,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "BUY",
+      "shares": 1,
+      "price": 479.59,
+      "value": 479.59,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "NVDA",
+      "action": "SELL",
+      "shares": 1,
+      "price": 138.85,
+      "value": 138.85,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 22.7% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "SELL",
+      "shares": 1,
+      "price": 245.55,
+      "value": 245.55,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 27.0% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "SELL",
+      "shares": 1,
+      "price": 478.74,
+      "value": 478.74,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 26.4% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "NVDA",
+      "action": "BUY",
+      "shares": 1,
+      "price": 134.43,
+      "value": 134.43,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "BUY",
+      "shares": 1,
+      "price": 241.84,
+      "value": 241.84,
+      "reasoning": "BUY consensus: 44.4% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "BUY",
+      "shares": 1,
+      "price": 513.83,
+      "value": 513.83,
+      "reasoning": "BUY consensus: 44.4% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "SELL",
+      "shares": 1,
+      "price": 239.07,
+      "value": 239.07,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 27.9% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "SELL",
+      "shares": 1,
+      "price": 495.62,
+      "value": 495.62,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 28.9% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "BUY",
+      "shares": 1,
+      "price": 213.49,
+      "value": 213.49,
+      "reasoning": "BUY consensus: 44.4% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "BUY",
+      "shares": 1,
+      "price": 514.6,
+      "value": 514.6,
+      "reasoning": "BUY consensus: 44.4% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "SELL",
+      "shares": 1,
+      "price": 218.27,
+      "value": 218.27,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 25.7% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "SELL",
+      "shares": 1,
+      "price": 521.91,
+      "value": 521.91,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 30.7% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "BUY",
+      "shares": 1,
+      "price": 217.9,
+      "value": 217.9,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "BUY",
+      "shares": 1,
+      "price": 526.31,
+      "value": 526.31,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "SELL",
+      "shares": 1,
+      "price": 188.38,
+      "value": 188.38,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 25.1% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "SELL",
+      "shares": 1,
+      "price": 493.54,
+      "value": 493.54,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 32.9% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "BUY",
+      "shares": 1,
+      "price": 198.15,
+      "value": 198.15,
+      "reasoning": "BUY consensus: 44.4% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "BUY",
+      "shares": 1,
+      "price": 524.11,
+      "value": 524.11,
+      "reasoning": "BUY consensus: 44.4% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "SELL",
+      "shares": 1,
+      "price": 209.28,
+      "value": 209.28,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 25.8% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "SELL",
+      "shares": 1,
+      "price": 530.96,
+      "value": 530.96,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 32.7% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "BUY",
+      "shares": 1,
+      "price": 205.35,
+      "value": 205.35,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "BUY",
+      "shares": 1,
+      "price": 539.8,
+      "value": 539.8,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "SELL",
+      "shares": 1,
+      "price": 198.53,
+      "value": 198.53,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 25.2% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "SELL",
+      "shares": 1,
+      "price": 513.74,
+      "value": 513.74,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 32.6% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "BUY",
+      "shares": 1,
+      "price": 211.26,
+      "value": 211.26,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "MSFT",
+      "action": "BUY",
+      "shares": 1,
+      "price": 454.27,
+      "value": 454.27,
+      "reasoning": "BUY consensus: 44.4% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "NVDA",
+      "action": "SELL",
+      "shares": 1,
+      "price": 135.4,
+      "value": 135.4,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 24.3% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "SELL",
+      "shares": 1,
+      "price": 195.27,
+      "value": 195.27,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 23.9% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "MSFT",
+      "action": "SELL",
+      "shares": 1,
+      "price": 450.18,
+      "value": 450.18,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 27.6% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "BUY",
+      "shares": 1,
+      "price": 200.85,
+      "value": 200.85,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "BUY",
+      "shares": 1,
+      "price": 503.96,
+      "value": 503.96,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "SELL",
+      "shares": 1,
+      "price": 203.92,
+      "value": 203.92,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 24.5% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "SELL",
+      "shares": 1,
+      "price": 493.53,
+      "value": 493.53,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 29.6% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "BUY",
+      "shares": 1,
+      "price": 196.45,
+      "value": 196.45,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "BUY",
+      "shares": 1,
+      "price": 487.54,
+      "value": 487.54,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "SELL",
+      "shares": 1,
+      "price": 201.0,
+      "value": 201.0,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 24.3% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "SELL",
+      "shares": 1,
+      "price": 484.85,
+      "value": 484.85,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 29.3% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "BUY",
+      "shares": 1,
+      "price": 201.08,
+      "value": 201.08,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "BUY",
+      "shares": 1,
+      "price": 485.68,
+      "value": 485.68,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "SELL",
+      "shares": 1,
+      "price": 211.16,
+      "value": 211.16,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 24.4% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "SELL",
+      "shares": 1,
+      "price": 475.86,
+      "value": 475.86,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 27.4% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "BUY",
+      "shares": 1,
+      "price": 211.18,
+      "value": 211.18,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "BUY",
+      "shares": 1,
+      "price": 473.8,
+      "value": 473.8,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "SELL",
+      "shares": 1,
+      "price": 213.88,
+      "value": 213.88,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 23.9% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "SELL",
+      "shares": 1,
+      "price": 484.07,
+      "value": 484.07,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 27.0% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "BUY",
+      "shares": 1,
+      "price": 202.38,
+      "value": 202.38,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "BUY",
+      "shares": 1,
+      "price": 472.84,
+      "value": 472.84,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "SELL",
+      "shares": 1,
+      "price": 229.35,
+      "value": 229.35,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 24.6% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "SELL",
+      "shares": 1,
+      "price": 465.4,
+      "value": 465.4,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 25.0% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "BUY",
+      "shares": 1,
+      "price": 231.59,
+      "value": 231.59,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "BUY",
+      "shares": 1,
+      "price": 477.2,
+      "value": 477.2,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "SELL",
+      "shares": 1,
+      "price": 227.76,
+      "value": 227.76,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 24.4% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "SELL",
+      "shares": 1,
+      "price": 489.0,
+      "value": 489.0,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 26.2% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "BUY",
+      "shares": 1,
+      "price": 232.14,
+      "value": 232.14,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "BUY",
+      "shares": 1,
+      "price": 502.98,
+      "value": 502.98,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "GOOGL",
+      "action": "SELL",
+      "shares": 1,
+      "price": 212.91,
+      "value": 212.91,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 22.7% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "TSLA",
+      "action": "BUY",
+      "shares": 1,
+      "price": 333.87,
+      "value": 333.87,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "SELL",
+      "shares": 1,
+      "price": 239.69,
+      "value": 239.69,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 25.0% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "SELL",
+      "shares": 1,
+      "price": 499.77,
+      "value": 499.77,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 26.1% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "BUY",
+      "shares": 1,
+      "price": 234.07,
+      "value": 234.07,
+      "reasoning": "BUY consensus: 44.4% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "BUY",
+      "shares": 1,
+      "price": 493.74,
+      "value": 493.74,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "SELL",
+      "shares": 1,
+      "price": 245.5,
+      "value": 245.5,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 24.0% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "SELL",
+      "shares": 1,
+      "price": 492.85,
+      "value": 492.85,
+      "reasoning": "FORCED REBALANCING: OVERWEIGHT: 24.1% > 22.5%"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "AAPL",
+      "action": "BUY",
+      "shares": 1,
+      "price": 255.46,
+      "value": 255.46,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "BRK.B",
+      "action": "BUY",
+      "shares": 1,
+      "price": 500.03,
+      "value": 500.03,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
     }
   ],
-  "trade_history": [],
   "analyst_decisions": [],
   "performance_metrics": {
     "max_value": 100000.0,
     "max_drawdown": 0.0,
     "volatility": 0.0,
     "sharpe_ratio": 0.0,
-    "total_trades": 0,
+    "total_trades": 205,
     "winning_trades": 0
   }
 }
