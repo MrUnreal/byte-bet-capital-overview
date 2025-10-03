@@ -10,23 +10,23 @@ An autonomous AI-powered hedge fund that uses 9 specialized AI analysts to make 
 
 ## 💰 Current Performance
 
-**Last Updated: October 02, 2025 at 10:29 PM EST**
+**Last Updated: October 02, 2025 at 11:21 PM EST**
 
 | Metric | Value |
 |--------|-------|
-| **Portfolio Value** | $2,506.38 |
-| **Total Return** | +150.64% |
+| **Portfolio Value** | $2,531.65 |
+| **Total Return** | +153.17% |
 | **Cash Balance** | $27.38 |
 | **Active Positions** | 5 |
 | **Initial Capital** | $1,000.00 |
 
 ### Current Holdings
 
-- **AAPL**: 2 shares @ `$255.46` (P&L: `$+92.96` / +22.24%)
-- **BRK.B**: 1 shares @ `$500.03` (P&L: `$+27.19` / +5.75%)
-- **GOOGL**: 2 shares @ `$246.54` (P&L: `$+166.36` / +50.92%)
-- **NVDA**: 3 shares @ `$178.19` (P&L: `$+187.16` / +53.87%)
-- **TSLA**: 1 shares @ `$440.40` (P&L: `$+196.65` / +80.68%)
+- **AAPL**: 2 shares @ `$257.34` (P&L: `$+96.72` / +23.14%)
+- **BRK.B**: 1 shares @ `$495.92` (P&L: `$+23.08` / +4.88%)
+- **GOOGL**: 2 shares @ `$245.44` (P&L: `$+164.16` / +50.25%)
+- **NVDA**: 3 shares @ `$188.93` (P&L: `$+219.38` / +63.15%)
+- **TSLA**: 1 shares @ `$436.00` (P&L: `$+192.25` / +78.87%)
 
 
 ## 🤖 How It Works
@@ -46,9 +46,10 @@ ByteBet Capital employs **9 specialized AI analysts**, each with a unique invest
 ### Trading Process
 
 1. **Daily Analysis** (5PM EST): Each analyst evaluates 6 major tech stocks (AAPL, BRK.B, GOOGL, MSFT, NVDA, TSLA)
-2. **Consensus Building**: Analysts vote BUY, HOLD, or SELL with confidence scores
-3. **Execution**: Trades are executed based on collective consensus
-4. **Portfolio Rebalancing**: Automatic rebalancing to maintain diversification
+2. **Data Fetching**: Uses previous trading day's data (Monday's data is available on Tuesday, etc.)
+3. **Consensus Building**: Analysts vote BUY, HOLD, or SELL with confidence scores
+4. **Execution**: Trades are executed based on collective consensus
+5. **Portfolio Rebalancing**: Automatic rebalancing to maintain diversification
 
 ## ✨ Features
 
@@ -63,4 +64,4 @@ ByteBet Capital employs **9 specialized AI analysts**, each with a unique invest
 
 ---
 
-*Auto-updated by GitHub Actions on October 02, 2025 at 10:29 PM EST*
+*Auto-updated by GitHub Actions on October 02, 2025 at 11:21 PM EST*
