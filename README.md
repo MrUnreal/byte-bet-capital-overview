@@ -10,23 +10,23 @@ An autonomous AI-powered hedge fund that uses 9 specialized AI analysts to make 
 
 ## 💰 Current Performance
 
-**Last Updated: October 02, 2025 at 05:17 PM EST**
+**Last Updated: October 02, 2025 at 08:29 PM EST**
 
 | Metric | Value |
 |--------|-------|
-| **Portfolio Value** | $2,065.62 |
-| **Total Return** | +106.56% |
-| **Cash Balance** | $11.35 |
+| **Portfolio Value** | $2,506.38 |
+| **Total Return** | +150.64% |
+| **Cash Balance** | $27.38 |
 | **Active Positions** | 5 |
 | **Initial Capital** | $1,000.00 |
 
 ### Current Holdings
 
-- **AAPL**: 2 shares @ $255.46 (P&L: $+25.91 / +5.34%)
-- **BRK.B**: 1 shares @ $500.03 (P&L: $+0.00 / +0.00%)
-- **GOOGL**: 1 shares @ $246.54 (P&L: $+70.08 / +39.71%)
-- **NVDA**: 2 shares @ $178.19 (P&L: $+124.18 / +53.48%)
-- **TSLA**: 1 shares @ $440.40 (P&L: $+106.53 / +31.91%)
+- **AAPL**: 2 shares @ $255.46 (P&L: $+92.96 / +22.24%)
+- **BRK.B**: 1 shares @ $500.03 (P&L: $+27.19 / +5.75%)
+- **GOOGL**: 2 shares @ $246.54 (P&L: $+166.36 / +50.92%)
+- **NVDA**: 3 shares @ $178.19 (P&L: $+187.16 / +53.87%)
+- **TSLA**: 1 shares @ $440.40 (P&L: $+196.65 / +80.68%)
 
 
 ## 🤖 How It Works
@@ -112,4 +112,4 @@ This is a personal educational project, but suggestions and ideas are welcome vi
 
 ---
 
-*Last auto-updated by GitHub Actions on October 02, 2025 at 05:17 PM EST*
+*Last auto-updated by GitHub Actions on October 02, 2025 at 08:29 PM EST*
