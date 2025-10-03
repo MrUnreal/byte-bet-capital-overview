@@ -1,7 +1,7 @@
 {
   "metadata": {
     "created_date": "2025-10-02T11:55:23.636090",
-    "last_updated": "2025-10-03T04:21:11.893900",
+    "last_updated": "2025-10-03T22:17:30.116874",
     "initial_capital": 1000.0,
     "version": "2.0"
   },
@@ -12,19 +12,19 @@
         "ticker": "AAPL",
         "shares": 2,
         "avg_cost": 208.97768812649218,
-        "current_price": 257.34
+        "current_price": 257.13
       },
       "GOOGL": {
         "ticker": "GOOGL",
         "shares": 2,
         "avg_cost": 163.35968910394865,
-        "current_price": 245.44
+        "current_price": 245.69
       },
       "NVDA": {
         "ticker": "NVDA",
         "shares": 3,
         "avg_cost": 115.8048830731805,
-        "current_price": 188.93
+        "current_price": 188.89
       },
       "TSLA": {
         "ticker": "TSLA",
@@ -40,9 +40,9 @@
       }
     },
     "short_positions": {},
-    "total_value": 2531.65,
-    "total_return": 1.5316500000000002,
-    "last_trading_date": "2025-10-03T04:21:11.893886"
+    "total_value": 2531.61,
+    "total_return": 1.5316100000000001,
+    "last_trading_date": "2025-10-03T22:17:30.116860"
   },
   "daily_history": [
     {
@@ -7286,6 +7286,15 @@
       "cash": 27.380000000000024,
       "positions": {},
       "timestamp": "2025-10-03T04:21:11.893895"
+    },
+    {
+      "date": "2025-10-02",
+      "portfolio_value": 2531.61,
+      "daily_return": -1.5799972350034015e-05,
+      "total_return": 1.5316100000000001,
+      "cash": 27.380000000000024,
+      "positions": {},
+      "timestamp": "2025-10-03T22:17:30.116870"
     }
   ],
   "trade_history": [
