@@ -10,7 +10,7 @@ An autonomous AI-powered hedge fund that uses 9 specialized AI analysts to make 
 
 ## 💰 Current Performance
 
-**Last Updated: October 02, 2025 at 10:20 PM EST**
+**Last Updated: October 02, 2025 at 10:22 PM EST**
 
 | Metric | Value |
 |--------|-------|
@@ -50,66 +50,17 @@ ByteBet Capital employs **9 specialized AI analysts**, each with a unique invest
 3. **Execution**: Trades are executed based on collective consensus
 4. **Portfolio Rebalancing**: Automatic rebalancing to maintain diversification
 
-## 📈 Features
+## ✨ Features
 
-- ✅ **Fully Automated**: Runs via GitHub Actions daily at 5PM EST
-- ✅ **AI-Powered**: Uses GPT-4o-mini for market analysis
-- ✅ **Transparent**: All trades and decisions are logged
-- ✅ **Live Dashboard**: Real-time portfolio visualization
-- ✅ **Risk Management**: Position limits and diversification rules
+- **Fully Automated**: Runs daily at 5PM EST via GitHub Actions
+- **AI-Powered**: 9 specialized analysts using GPT-4o-mini
+- **Transparent**: All trades and reasoning publicly logged
+- **Risk Management**: Position limits and diversification rules
 
-## 🛠️ Technology Stack
+## ⚠️ Disclaimers
 
-- **Language**: Python 3.11
-- **AI Model**: GPT-4o-mini via g4f
-- **Market Data**: Financial Modeling Prep API
-- **Automation**: GitHub Actions
-- **Dashboard**: Chart.js + Responsive HTML/CSS
-- **Hosting**: GitHub Pages
-
-## 📁 Project Structure
-
-```
-byte-bet-capital/
-├── hedgefund.py              # Core trading engine
-├── portfolio_database.json   # Portfolio state & history
-├── .github/
-│   ├── workflows/
-│   │   ├── daily-trading.yml       # Daily trading automation
-│   │   ├── backfill.yml           # Historical backtesting
-│   │   └── update-dashboard.yml    # Dashboard deployment
-│   └── scripts/
-│       ├── generate_dashboard.py   # Dashboard generator
-│       ├── extract_stats.py        # Stats extraction
-│       └── update_readme.py        # This file
-└── requirements.txt          # Python dependencies
-```
-
-## ⚠️ Important Disclaimers
-
-**THIS IS AN EDUCATIONAL PROJECT**
-
-- This is an experimental AI trading system for educational and research purposes only
-- **NOT FINANCIAL ADVICE** - Do not use this for actual trading decisions
-- Past performance does not guarantee future results
-- Never invest money you cannot afford to lose
-- Always consult with licensed financial advisors before making investment decisions
-- The creators assume no responsibility for any financial losses
-
-## 📜 License
-
-MIT License - See LICENSE file for details
-
-## 🤝 Contributing
-
-This is a personal educational project, but suggestions and ideas are welcome via issues!
-
-## 📧 Contact
-
-- GitHub: [@MrUnreal](https://github.com/MrUnreal)
-- Project: [byte-bet-capital](https://github.com/MrUnreal/byte-bet-capital)
-- Dashboard: [Live Dashboard](https://mrunreal.github.io/byte-bet-capital-overview/)
+**Educational Project Only** - This is an experimental AI trading system for research purposes. NOT financial advice. Past performance does not guarantee future results. The creators assume no responsibility for any financial losses. Always consult licensed financial advisors before making investment decisions.
 
 ---
 
-*Last auto-updated by GitHub Actions on October 02, 2025 at 10:20 PM EST*
+*Auto-updated by GitHub Actions on October 02, 2025 at 10:22 PM EST*
