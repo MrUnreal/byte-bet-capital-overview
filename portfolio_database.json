@@ -1,48 +1,48 @@
 {
   "metadata": {
     "created_date": "2025-10-02T11:55:23.636090",
-    "last_updated": "2025-12-11T22:12:23.076653",
+    "last_updated": "2025-12-12T22:24:19.630217",
     "initial_capital": 1000.0,
     "version": "2.0"
   },
   "portfolio_state": {
-    "cash": 338.28000000000014,
+    "cash": 25.850000000000136,
     "positions": {
       "AAPL": {
         "ticker": "AAPL",
         "shares": 2,
         "avg_cost": 208.97768812649218,
-        "current_price": 278.78
+        "current_price": 278.03
       },
       "GOOGL": {
         "ticker": "GOOGL",
-        "shares": 1,
-        "avg_cost": 316.02374514224914,
-        "current_price": 320.21
+        "shares": 2,
+        "avg_cost": 314.22687257112455,
+        "current_price": 312.43
       },
       "NVDA": {
         "ticker": "NVDA",
         "shares": 3,
         "avg_cost": 158.39883692141356,
-        "current_price": 183.78
+        "current_price": 180.93
       },
       "TSLA": {
         "ticker": "TSLA",
         "shares": 1,
         "avg_cost": 243.74576677322386,
-        "current_price": 451.45
+        "current_price": 446.89
       },
       "BRK.B": {
         "ticker": "BRK.B",
         "shares": 1,
         "avg_cost": 472.84,
-        "current_price": 490.43
+        "current_price": 495.85
       }
     },
     "short_positions": {},
-    "total_value": 2709.27,
-    "total_return": 1.70927,
-    "last_trading_date": "2025-12-11T22:12:23.076634"
+    "total_value": 2692.3,
+    "total_return": 1.6923000000000001,
+    "last_trading_date": "2025-12-12T22:24:19.630195"
   },
   "daily_history": [
     {
@@ -8245,6 +8245,46 @@
         }
       },
       "timestamp": "2025-12-11T22:12:23.076647"
+    },
+    {
+      "date": "2025-12-11",
+      "portfolio_value": 2692.3,
+      "daily_return": -0.006263679884249189,
+      "total_return": 1.6923000000000001,
+      "cash": 25.850000000000136,
+      "positions": {
+        "AAPL": {
+          "ticker": "AAPL",
+          "shares": 2,
+          "avg_cost": 208.97768812649218,
+          "current_price": 278.03
+        },
+        "GOOGL": {
+          "ticker": "GOOGL",
+          "shares": 2,
+          "avg_cost": 314.22687257112455,
+          "current_price": 312.43
+        },
+        "NVDA": {
+          "ticker": "NVDA",
+          "shares": 3,
+          "avg_cost": 158.39883692141356,
+          "current_price": 180.93
+        },
+        "TSLA": {
+          "ticker": "TSLA",
+          "shares": 1,
+          "avg_cost": 243.74576677322386,
+          "current_price": 446.89
+        },
+        "BRK.B": {
+          "ticker": "BRK.B",
+          "shares": 1,
+          "avg_cost": 472.84,
+          "current_price": 495.85
+        }
+      },
+      "timestamp": "2025-12-12T22:24:19.630208"
     }
   ],
   "trade_history": [
@@ -13881,6 +13921,15 @@
       "price": 320.21,
       "value": 320.21,
       "reasoning": "FORCED REBALANCING: OVERWEIGHT: 23.6% > 22.5%"
+    },
+    {
+      "date": "2025-12-11",
+      "ticker": "GOOGL",
+      "action": "BUY",
+      "shares": 1,
+      "price": 312.43,
+      "value": 312.43,
+      "reasoning": "BUY consensus: 38.9% vote strength (threshold: 35.0%)"
     }
   ],
   "analyst_decisions": [],
@@ -13889,7 +13938,7 @@
     "max_drawdown": 0.0,
     "volatility": 0.0,
     "sharpe_ratio": 0.0,
-    "total_trades": 626,
+    "total_trades": 627,
     "winning_trades": 0
   }
 }
