@@ -10,23 +10,23 @@ An autonomous AI-powered hedge fund that uses 9 specialized AI analysts to make 
 
 ## 💰 Current Performance
 
-**Last Updated: December 17, 2025 at 05:10 PM EST**
+**Last Updated: December 18, 2025 at 05:07 PM EST**
 
 | Metric | Value |
 |--------|-------|
-| **Portfolio Value** | $2,712.16 |
-| **Total Return** | +171.22% |
-| **Cash Balance** | $333.49 |
+| **Portfolio Value** | $2,658.24 |
+| **Total Return** | +165.82% |
+| **Cash Balance** | $36.77 |
 | **Active Positions** | 5 |
 | **Initial Capital** | $1,000.00 |
 
 ### Current Holdings
 
-- **AAPL**: 2 shares @ `$274.61` (P&L: `$+131.26` / +31.41%)
-- **BRK.B**: 1 shares @ `$499.84` (P&L: `$+27.00` / +5.71%)
-- **GOOGL**: 1 shares @ `$306.57` (P&L: `$-4.65` / -1.50%)
-- **NVDA**: 3 shares @ `$177.72` (P&L: `$+57.96` / +12.20%)
-- **TSLA**: 1 shares @ `$489.88` (P&L: `$+246.13` / +100.98%)
+- **AAPL**: 2 shares @ `$271.84` (P&L: `$+125.72` / +30.08%)
+- **BRK.B**: 1 shares @ `$504.27` (P&L: `$+31.43` / +6.65%)
+- **GOOGL**: 2 shares @ `$296.72` (P&L: `$-14.50` / -2.39%)
+- **NVDA**: 3 shares @ `$170.94` (P&L: `$+37.62` / +7.92%)
+- **TSLA**: 1 shares @ `$467.26` (P&L: `$+223.51` / +91.70%)
 
 
 ## 🤖 How It Works
@@ -64,4 +64,4 @@ ByteBet Capital employs **9 specialized AI analysts**, each with a unique invest
 
 ---
 
-*Auto-updated by GitHub Actions on December 17, 2025 at 05:10 PM EST*
+*Auto-updated by GitHub Actions on December 18, 2025 at 05:07 PM EST*
