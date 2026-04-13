@@ -1,7 +1,7 @@
 {
   "metadata": {
     "created_date": "2025-10-02T11:55:23.636090",
-    "last_updated": "2026-04-10T22:14:15.919763",
+    "last_updated": "2026-04-13T22:19:10.329294",
     "initial_capital": 1000.0,
     "version": "2.0"
   },
@@ -42,7 +42,7 @@
     "short_positions": {},
     "total_value": 2134.86,
     "total_return": 1.1348600000000002,
-    "last_trading_date": "2026-04-10T22:14:15.919754"
+    "last_trading_date": "2026-04-13T22:19:10.329281"
   },
   "daily_history": [
     {
